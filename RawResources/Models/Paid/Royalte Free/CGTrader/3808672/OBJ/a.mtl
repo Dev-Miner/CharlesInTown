@@ -1,0 +1,147 @@
+newmtl Std_Tongue
+    Ns 2.000000
+    d 1.000000
+    Ka 0.490196 0.490196 0.490196
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd a/Std_Tongue_diffuse.jpg
+    map_Pm a/Std_Tongue_metallic.jpg
+    map_Pr a/Std_Tongue_roughness.jpg
+newmtl Hair
+    Ns 2.000000
+    d 1.000000
+    Ka 0.490196 0.490196 0.490196
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd a/Hair_diffuse.png
+    map_D a/Hair_opacity.jpg
+    map_Ks a/Hair_specular.png
+    map_Pm a/Hair_metallic.png
+    map_Pr a/Hair_roughness.png
+newmtl Std_Nails
+    Ns 20.000000
+    d 1.000000
+    Ka 0.490196 0.490196 0.490196
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.269400 0.269400 0.269400
+    map_Kd a/Std_Nails_diffuse.jpg
+    map_Pr a/Std_Nails_roughness.jpg
+newmtl Std_Skin_Head
+    Ns 20.000000
+    d 1.000000
+    Ka 0.490196 0.490196 0.490196
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.269400 0.269400 0.269400
+    map_Kd a/Std_Skin_Head_diffuse.jpg
+    map_Pm a/Std_Skin_Head_metallic.jpg
+    map_Pr a/Std_Skin_Head_roughness.jpg
+newmtl Scalp
+    Ns 2.000000
+    d 1.000000
+    Ka 0.490196 0.490196 0.490196
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd a/Scalp_diffuse.jpg
+    map_D a/Scalp_opacity.jpg
+    map_Pm a/Scalp_metallic.png
+    map_Pr a/Scalp_roughness.png
+newmtl Std_Skin_Body
+    Ns 20.000000
+    d 1.000000
+    Ka 0.490196 0.490196 0.490196
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.269400 0.269400 0.269400
+    map_Kd a/Std_Skin_Body_diffuse.jpg
+    map_Pm a/Std_Skin_Body_metallic.jpg
+    map_Pr a/Std_Skin_Body_roughness.jpg
+newmtl Std_Skin_Arm
+    Ns 20.000000
+    d 1.000000
+    Ka 0.490196 0.490196 0.490196
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.269400 0.269400 0.269400
+    map_Kd a/Std_Skin_Arm_diffuse.jpg
+    map_Pm a/Std_Skin_Arm_metallic.jpg
+    map_Pr a/Std_Skin_Arm_roughness.jpg
+newmtl Std_Eyelash
+    Ns 2.000000
+    d 1.000000
+    Ka 0.490196 0.490196 0.490196
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd a/Std_Eyelash_diffuse.jpg
+    map_D a/Std_Eyelash_opacity.jpg
+    map_Pm a/Std_Eyelash_metallic.jpg
+    map_Pr a/Std_Eyelash_roughness.jpg
+newmtl Std_Eye_R
+    Ns 2.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.000000 0.000000 0.000000
+    map_Kd a/Std_Eye_R_diffuse.jpg
+    map_Pm a/Std_Eye_R_metallic.jpg
+    map_Pr a/Std_Eye_R_roughness.jpg
+newmtl Std_Skin_Leg
+    Ns 20.000000
+    d 1.000000
+    Ka 0.490196 0.490196 0.490196
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.269400 0.269400 0.269400
+    map_Kd a/Std_Skin_Leg_diffuse.jpg
+    map_Pm a/Std_Skin_Leg_metallic.jpg
+    map_Pr a/Std_Skin_Leg_roughness.jpg
+newmtl Std_Cornea_R
+    Ns 2.000000
+    d 0.800000
+    Ka 0.482353 0.482353 0.482353
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.000000 0.000000 0.000000
+    map_Kd a/Std_Cornea_R_diffuse.jpg
+    map_Pm a/Std_Cornea_R_metallic.jpg
+    map_Pr a/Std_Cornea_R_roughness.jpg
+newmtl Std_Cornea_L
+    Ns 2.000000
+    d 0.800000
+    Ka 0.482353 0.482353 0.482353
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.000000 0.000000 0.000000
+    map_Kd a/Std_Cornea_L_diffuse.jpg
+    map_Pm a/Std_Cornea_L_metallic.jpg
+    map_Pr a/Std_Cornea_L_roughness.jpg
+newmtl Bikini
+    Ns 20.000000
+    d 1.000000
+    Ka 0.200000 0.200000 0.200000
+    Kd 0.188235 0.443137 1.000000
+    Ks 0.200000 0.200000 0.200000
+    map_Kd a/Bikini_diffuse.jpg
+    map_Pm a/Bikini_metallic.png
+    map_Pr a/Bikini_roughness.jpg
+newmtl Std_Eye_L
+    Ns 2.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.000000 0.000000 0.000000
+    map_Kd a/Std_Eye_L_diffuse.jpg
+    map_Pm a/Std_Eye_L_metallic.jpg
+    map_Pr a/Std_Eye_L_roughness.jpg
+newmtl Std_Upper_Teeth
+    Ns 2.000000
+    d 1.000000
+    Ka 0.996078 0.996078 0.996078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd a/Std_Upper_Teeth_diffuse.jpg
+    map_Pm a/Std_Upper_Teeth_metallic.jpg
+    map_Pr a/Std_Upper_Teeth_roughness.jpg
+newmtl Std_Lower_Teeth
+    Ns 2.000000
+    d 1.000000
+    Ka 0.996078 0.996078 0.996078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd a/Std_Lower_Teeth_diffuse.jpg
+    map_Pm a/Std_Lower_Teeth_metallic.jpg
+    map_Pr a/Std_Lower_Teeth_roughness.jpg
